@@ -115,8 +115,8 @@ export default function Index() {
                 <Card className="overflow-hidden shadow-2xl">
                   <CardContent className="p-0">
                     <img 
-                      src="/img/d832963c-0aab-43d0-842e-a569193c3b3c.jpg" 
-                      alt="Beautiful piano sheet music preview" 
+                      src="https://cdn.poehali.dev/files/22e61011-6175-4e4f-9b3d-4bb99c913818.png" 
+                      alt="Piano Vibes Collection - Etudes in Instagram Style" 
                       className="w-full h-auto rounded-sm object-contain"
                     />
                   </CardContent>
