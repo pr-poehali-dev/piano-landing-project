@@ -117,7 +117,7 @@ export default function Index() {
                     <img 
                       src="/img/d832963c-0aab-43d0-842e-a569193c3b3c.jpg" 
                       alt="Beautiful piano sheet music preview" 
-                      className="w-full h-auto"
+                      className="w-full h-auto rounded-sm object-contain"
                     />
                   </CardContent>
                 </Card>
